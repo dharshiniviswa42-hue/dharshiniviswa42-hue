@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Viswadharshini</h1>
-<h3 align="center">Aspiring Data Analyst | SQL • Power BI • Excel • Python</h3>
+<h3 align="center">Aspiring Data Analyst | SQL • Power BI • Excel </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1E88E5&center=true&vCenter=true&width=600&lines=Turning+Raw+Data+into+Business+Decisions;SQL+%7C+Power+BI+%7C+Excel+%7C+Python;Building+Data+Analyst+Portfolio+One+Project+at+a+Time" alt="Typing SVG" />
@@ -86,4 +86,4 @@ Customer segmentation and buying-pattern analysis of bike buyers using Excel.
 <p align="center"><i>Open to Data Analyst opportunities and freelance data projects 📊</i></p>
 
 
-Itha na just copy pannikira 
+
